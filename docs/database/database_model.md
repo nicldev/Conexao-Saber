@@ -10,7 +10,7 @@
 - Auditoria de Logs.  
 
 ## Diagrama ER
-(Adicionar imagem em docs/database/database_model.png)
+![Modelo de Dados](database_model.png)
 
 ## Dicionário de Dados
 - USER.role: enum {student, org, school, admin}.  
