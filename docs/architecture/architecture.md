@@ -12,7 +12,7 @@ Autenticação: JWT + RBAC.
 Integrações: e-mail SMTP, push FCM.  
 
 ## Diagrama de Componentes
-(Adicionar imagem em docs/architecture/architecture.png)
+![Arquitetura do Sistema](architecture.png)
 
 ## Decisões Técnicas
 - PostgreSQL para consistência transacional.  
