@@ -48,10 +48,9 @@ React, Kotlin/Flutter, Node.js/Kotlin, PostgreSQL, Docker, CI/CD, Swagger/OpenAP
 | 8 | Acessibilidade, testes E2E, release candidate |
 
 ## Equipe
-- Nome 1 – PO/Analista  
-- Nome 2 – Arquiteto(a)  
-- Nome 3 – Dev Web  
-- Nome 4 – Dev Mobile  
-- Nome 5 – Dev Backend  
-- Nome 6 – UX/UI  
-- Nome 7 – QA  
+- Nicolas Lima – PO/Analista  
+- Francisco Flavio – Arquiteto(a)  
+- Thiago Targino – Dev Web  
+- Mayara Pinto – Dev Mobile  
+- Rodrigo De Queiroz – Dev Backend  
+- Cleberson Assunção – UX/UI  
