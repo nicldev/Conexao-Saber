@@ -1,7 +1,7 @@
-# Plataforma IntegraEdu – Conjunto Ceará
+# Plataforma Conexão Saber
 
 ## Problema & Justificativa
-Estudantes da rede pública do Conjunto Ceará enfrentam barreiras de acesso a cursinhos comunitários (informação dispersa, vagas ociosas, pouca visibilidade, logística e comunicação).  
+Estudantes da rede pública enfrentam barreiras de acesso a cursinhos comunitários (informação dispersa, vagas ociosas, pouca visibilidade, logística e comunicação).  
 A plataforma busca otimizar o uso das vagas e conectar escolas, cursinhos e alunos.
 
 ## Objetivos
